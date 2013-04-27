@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Staples_Doug_Hwk7</string>
+    <string name="action_settings">Settings</string>
+    <string name="retrieve_assignment_list_from_server">Retrieve assignment list from server</string>
+    <string name="Configure_preferences">Configure preferences</string>
+    <string name="Manage_assignments">Manage assignments</string>
+    <string name="ManageAssignmentsTitle">The email address identifier</string>
+    <string name="ManageAssignmentsTitle2">The home base server URL</string>
+    <string name="ManageAssignmentsButton">Save Settings</string>
+    <string name="ManageAssignmentsInput1"></string>
+    <string name="ManageAssignmentsInput2"/>
+
+</resources>
